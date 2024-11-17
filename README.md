@@ -1,5 +1,3 @@
-# c00
-
 # C 00
 
 The "C 00" project introduces foundational programming concepts in C, targeting beginners. The exercises focus on creating basic functions, such as printing characters, numbers, and combinations of digits, adhering to strict coding norms. Tasks include writing functions to display the alphabet in various orders, checking number signs, and generating formatted outputs like number combinations. The project uses the write function exclusively, ensuring a low-level understanding of output handling. It aims to instil discipline coding habits and a grasp of fundamental programming logic while encouraging collaborative learning and peer evaluation.
