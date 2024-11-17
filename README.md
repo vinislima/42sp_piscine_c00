@@ -13,8 +13,8 @@ This project serves as an introduction to fundamental C programming concepts, fo
 - **`ft_print_comb2`** - Outputs all combinations of two numbers (00 to 99) in ascending order, showcasing nested loops and paired number formatting.
 - **`ft_putnbr`** - Prints an integer, including handling edge cases like the minimum and maximum values for int, emphasising recursion and formatting.
 - **`ft_print_combn`** - Outputs all combinations of n digits (1 ≤ n ≤ 9) in ascending order, requiring advanced iteration and condition checks.
-
-Exercises:
+<details>
+	<summary>Exercises:</summary>
 
 - [ex00:](https://github.com/vinislima/42sp_piscine_c00/tree/main/ex00)
     
@@ -513,3 +513,4 @@ Exercises:
     // }
     
     ```
+</details>
